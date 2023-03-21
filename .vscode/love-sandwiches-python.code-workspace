@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://genagrig-lovesandwiches-fmaqlzgucmy.ws-eu90.gitpod.io/workspace/love-sandwiches-python"
+		}
+	],
+	"remoteAuthority": "genagrig-lovesandwiches-fmaqlzgucmy.ws-eu90.gitpod.io",
+	"settings": {
+		"files.autoSave": "off",
+		"workbench.colorTheme": "Visual Studio Dark"
+	}
+}
